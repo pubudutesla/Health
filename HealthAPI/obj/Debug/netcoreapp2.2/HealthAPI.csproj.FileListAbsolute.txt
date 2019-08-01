@@ -1,0 +1,14 @@
+C:\Users\Pubud\source\repos\HealthAPI\HealthAPI\bin\Debug\netcoreapp2.2\HealthAPI.deps.json
+C:\Users\Pubud\source\repos\HealthAPI\HealthAPI\bin\Debug\netcoreapp2.2\HealthAPI.runtimeconfig.json
+C:\Users\Pubud\source\repos\HealthAPI\HealthAPI\bin\Debug\netcoreapp2.2\HealthAPI.runtimeconfig.dev.json
+C:\Users\Pubud\source\repos\HealthAPI\HealthAPI\bin\Debug\netcoreapp2.2\HealthAPI.dll
+C:\Users\Pubud\source\repos\HealthAPI\HealthAPI\bin\Debug\netcoreapp2.2\HealthAPI.pdb
+C:\Users\Pubud\source\repos\HealthAPI\HealthAPI\obj\Debug\netcoreapp2.2\HealthAPI.csprojAssemblyReference.cache
+C:\Users\Pubud\source\repos\HealthAPI\HealthAPI\obj\Debug\netcoreapp2.2\HealthAPI.csproj.CoreCompileInputs.cache
+C:\Users\Pubud\source\repos\HealthAPI\HealthAPI\obj\Debug\netcoreapp2.2\HealthAPI.RazorAssemblyInfo.cache
+C:\Users\Pubud\source\repos\HealthAPI\HealthAPI\obj\Debug\netcoreapp2.2\HealthAPI.RazorAssemblyInfo.cs
+C:\Users\Pubud\source\repos\HealthAPI\HealthAPI\obj\Debug\netcoreapp2.2\HealthAPI.AssemblyInfoInputs.cache
+C:\Users\Pubud\source\repos\HealthAPI\HealthAPI\obj\Debug\netcoreapp2.2\HealthAPI.AssemblyInfo.cs
+C:\Users\Pubud\source\repos\HealthAPI\HealthAPI\obj\Debug\netcoreapp2.2\HealthAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Pubud\source\repos\HealthAPI\HealthAPI\obj\Debug\netcoreapp2.2\HealthAPI.dll
+C:\Users\Pubud\source\repos\HealthAPI\HealthAPI\obj\Debug\netcoreapp2.2\HealthAPI.pdb
